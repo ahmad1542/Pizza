@@ -1,0 +1,10 @@
+D:\GitHub Repositories\Pizza\bin\Debug\PizzaProject.exe.config
+D:\GitHub Repositories\Pizza\bin\Debug\PizzaProject.exe
+D:\GitHub Repositories\Pizza\bin\Debug\PizzaProject.pdb
+D:\GitHub Repositories\Pizza\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+D:\GitHub Repositories\Pizza\obj\Debug\PizzaProject.PizzaOrder.resources
+D:\GitHub Repositories\Pizza\obj\Debug\PizzaProject.Properties.Resources.resources
+D:\GitHub Repositories\Pizza\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+D:\GitHub Repositories\Pizza\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\Pizza\obj\Debug\PizzaProject.exe
+D:\GitHub Repositories\Pizza\obj\Debug\PizzaProject.pdb
